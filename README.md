@@ -1,4 +1,4 @@
-# Hyundai Sales Data Dashboard
+# Hyundai Sales Sample Data Dashboard
 
 This repository contains a Power BI dashboard showcasing Hyundai's sales performance across various metrics, including total sales, monthly/yearly trends, body style preferences, and regional performance. Use this dashboard to gain insights into key KPIs and make data-driven decisions.
 
