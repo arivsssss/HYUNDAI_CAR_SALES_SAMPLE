@@ -4,6 +4,12 @@ This repository contains a Power BI dashboard showcasing Hyundai's sales perform
 
 ---
 
+
+![image](https://github.com/user-attachments/assets/44df8a26-bf67-4529-a7cb-18c705bdd8ff)
+
+
+
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Features](#features)
